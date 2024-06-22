@@ -102,4 +102,4 @@ npm run prepare
 
 ## License
 
-MIT © [SSE Authentication](LICENSE)
+MIT © [SSE World](https://github.com/sseworld)
